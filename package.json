@@ -1,6 +1,6 @@
 {
   "name": "redux-jsonapi-client",
-  "version": "0.3.0-beta",
+  "version": "0.3.1",
   "description": "Redux Jsonapi Client",
   "main": "dist/index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "json",
     "api"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smbwain/redux-jsonapi-client.git"
+  },
   "author": "Roman Ditchuk",
   "license": "ISC",
   "devDependencies": {
