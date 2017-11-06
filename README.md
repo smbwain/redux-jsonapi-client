@@ -1,4 +1,10 @@
 
+```
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+This library is not being developed anymore.
+We switched to GraphQL :)
+```
+
 Simple jsonapi client for redux with relationships and optimistic/pessimistic updates on board
 
 ```
